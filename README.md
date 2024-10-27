@@ -14,7 +14,7 @@ Below are some screenshots that provide a deeper insight into the app's UI:
   <tr>
     <td style="text-align: center; padding: 10px;">
       <div align="center">
-        <div style="display: inline-block; text-align: center; margin: 10px;">
+        <div style="display: inline-block; text-align: center;">
           <img src="https://github.com/BenjaminStahr/android_project_2021_your_story/blob/main/daily.png" alt="Daily Diary UI" width="250">
           <p><em>The Daily Diary section where users can log emotions using the Likert scale and add entries.</em></p>
         </div>
@@ -22,7 +22,7 @@ Below are some screenshots that provide a deeper insight into the app's UI:
     </td>
     <td style="text-align: center; padding: 10px;">
       <div align="center">
-        <div style="display: inline-block; text-align: center; margin: 10px;">
+        <div style="display: inline-block; text-align: center;">
           <img src="https://github.com/BenjaminStahr/android_project_2021_your_story/blob/main/charts.png" alt="Charts UI" width="250">
           <p><em>The Report Creation section allowing users to visualize emotional trends over time.</em></p>
         </div>
@@ -30,7 +30,7 @@ Below are some screenshots that provide a deeper insight into the app's UI:
     </td>
     <td style="text-align: center; padding: 10px;">
       <div align="center">
-        <div style="display: inline-block; text-align: center; margin: 10px;">
+        <div style="display: inline-block; text-align: center;">
           <img src="https://github.com/BenjaminStahr/android_project_2021_your_story/blob/main/diary.png" alt="Diary UI" width="250">
           <p><em>The Diary section allows browsing for past entries with a daily visual summary of the emotional state.</em></p>
         </div>
@@ -40,7 +40,7 @@ Below are some screenshots that provide a deeper insight into the app's UI:
   <tr>
     <td style="text-align: center; padding: 10px;">
       <div align="center">
-        <div style="display: inline-block; text-align: center; margin: 10px;">
+        <div style="display: inline-block; text-align: center;">
           <img src="https://github.com/BenjaminStahr/android_project_2021_your_story/blob/main/create_thought.png" alt="Add Entry UI" width="250">
           <p><em>The Entry Creation screen where users can input text, record audio, take pictures, and add location.</em></p>
         </div>
@@ -48,7 +48,7 @@ Below are some screenshots that provide a deeper insight into the app's UI:
     </td>
     <td style="text-align: center; padding: 10px;">
       <div align="center">
-        <div style="display: inline-block; text-align: center; margin: 10px;">
+        <div style="display: inline-block; text-align: center;">
           <img src="https://github.com/BenjaminStahr/android_project_2021_your_story/blob/main/reports.png" alt="Reports UI" width="250">
           <p><em>The Reports section where users can check their created reports and manage them.</em></p>
         </div>
@@ -56,6 +56,7 @@ Below are some screenshots that provide a deeper insight into the app's UI:
     </td>
   </tr>
 </table>
+
 
 ## Technologies Used:
 - **Kotlin** for Android app development.
